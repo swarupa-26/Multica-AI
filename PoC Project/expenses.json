@@ -1,0 +1,93 @@
+[
+  {
+    "id": "7312d1c3-9fe5-47dc-a9b9-05366f1482a0",
+    "amount": 25.0,
+    "description": "Lunch",
+    "category": "food",
+    "date": "2026-09-15T15:04:37.870227"
+  },
+  {
+    "id": "01ba73fc-411a-4b56-991d-f51f3ebf228c",
+    "amount": 45.0,
+    "description": "Groceries",
+    "category": "groceries",
+    "date": "2026-09-15T15:09:31.197071"
+  },
+  {
+    "id": "a9df9602-3621-417e-b990-a69adbf7da0f",
+    "amount": 10.0,
+    "description": "Coffee",
+    "category": "food",
+    "date": "2026-09-15T15:17:52.820504"
+  },
+  {
+    "id": "652e6695-2b63-4c8e-af8d-451fb55ff4df",
+    "amount": 25.5,
+    "description": "Lunch",
+    "category": "food",
+    "date": "2026-09-15T15:17:52.939050"
+  },
+  {
+    "id": "67b485bf-3e32-4be4-934d-edc13c9c6a2a",
+    "amount": 50.0,
+    "description": "Gas",
+    "category": "transport",
+    "date": "2026-09-15T15:17:53.070045"
+  },
+  {
+    "id": "0982e61c-f4e6-43e2-932e-679fa9dc84f3",
+    "amount": 12.5,
+    "description": "Lunch",
+    "category": "food",
+    "date": "2026-09-15T15:59:38.376685"
+  },
+  {
+    "id": "ee61f7e2-0474-46e7-841b-77fad787f4b8",
+    "amount": 500.0,
+    "description": "Dinner",
+    "category": "food",
+    "date": "2026-09-15T16:54:18.975610"
+  },
+  {
+    "id": "b916f261-7a1d-4056-81c2-c2b20e918d93",
+    "amount": 500.0,
+    "description": "Dinner",
+    "category": "food",
+    "date": "2026-09-15T16:55:51.465878"
+  },
+  {
+    "id": "b19e8146-b333-4eec-ba38-52cec1345feb",
+    "amount": 100.0,
+    "description": "TestExpense",
+    "category": "general",
+    "date": "2026-09-15T17:19:03.948703"
+  },
+  {
+    "id": "9354682b-226a-4483-b274-626e13d55adb",
+    "amount": 200.0,
+    "description": "lunchh",
+    "category": "food",
+    "date": "2026-09-15T17:58:28.127266"
+  },
+  {
+    "id": "ffce8a2b-5f03-4466-a9cf-c1aafd97de21",
+    "amount": 1000.0,
+    "description": "food",
+    "category": "general",
+    "date": "2026-10-08T12:46:02.452199"
+  },
+  {
+    "id": "0b6dd8c7-6b01-449d-a456-d7f94244ef88",
+    "amount": 300.0,
+    "description": "food",
+    "category": "general",
+    "date": "2026-10-28T12:46:51.327130"
+  },
+  {
+    "id": "29f9a4ee-3954-42b4-ae75-573fc19e91a7",
+    "amount": 100.0,
+    "description": "food",
+    "category": "general",
+    "date": "2026-10-28T15:41:03.838897"
+  }
+]
